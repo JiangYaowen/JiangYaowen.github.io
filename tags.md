@@ -4,6 +4,9 @@ title: "Tags"
 description: "目录"  
 header-img: "img/semantic.jpg"  
 ---
+<center>
+    <p><img src="http://7xrl4p.com1.z0.glb.clouddn.com/6666.jpg" align="center"></p>
+</center>
 
 ## 本页使用方法
 
