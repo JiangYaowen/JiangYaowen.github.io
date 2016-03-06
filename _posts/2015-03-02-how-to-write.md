@@ -3,7 +3,7 @@ layout: post
 title: 关于自我教育
 date: 2016-3-06
 categories: blog
-tags: [总结,知识管理]
+tags: [思维产物]
 description: 思维产物
 ---
 
