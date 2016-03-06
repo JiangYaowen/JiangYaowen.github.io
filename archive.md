@@ -4,7 +4,9 @@ title: "Archive"
 description: "目录"
 header-img: "img/black.jpg"
 ---
-
+<center>
+    <p><img src="http://7xrl4p.com1.z0.glb.clouddn.com/6666.jpg" align="center"></p>
+</center>
 
 <ul class="listing">
 {% for post in site.posts %}
