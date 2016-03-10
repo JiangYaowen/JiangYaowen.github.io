@@ -1,3 +1,13 @@
+---
+layout: post
+title: 动机的力量
+date: 2016-03-10
+categories: blog
+tags: [心理学]
+description: 了解动机的力量，更好的管理生活
+
+---
+
 # 《动机的力量》学习笔记
 ## 1、案例
 
