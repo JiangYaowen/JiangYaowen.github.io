@@ -1,3 +1,13 @@
+---
+layout: post
+title: There They Were
+date: 2016-08-30
+categories: blog
+tags: [电影]
+description: 电影札记
+
+---
+
 ## 《此间的少年》There They Were
 > 这本书写的不是一个故事，而是我和某一群人已经失去的时间。-----江南
 
